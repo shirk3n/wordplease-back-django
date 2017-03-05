@@ -1,5 +1,6 @@
 # Wordplease
 
+##Enlace para práctica de despliegue en servidores: *http://ec2-52-44-75-180.compute-1.amazonaws.com*
 Wordplease es una educada plataforma de blogging creada en Django para aprender Django.
 
 ![Applause](http://media.giphy.com/media/pNfyBGF0rwsQ8/giphy.gif)
